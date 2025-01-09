@@ -1,0 +1,9 @@
+torch==2.0.1
+torchvision==0.15.2
+timm == 0.6.12
+Pillow==10.3.0
+scikit_learn
+scipy
+tqdm
+numpy==1.26.4
+open_clip_torch
