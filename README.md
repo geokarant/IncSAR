@@ -119,4 +119,4 @@ SarAircraft dataset:
 ```
 
 ## Contact
-If there are any questions, please feel free to contact with the author George Karantaidis (karantai@iti.gr).
+If there are any questions, please feel free to contact the author George Karantaidis (karantai@iti.gr).
