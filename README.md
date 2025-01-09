@@ -78,6 +78,7 @@ We thank the following repos providing helpful components/functions in our work.
 You should also cite the following:
 
 MSTAR dataset:
+```
 @inproceedings{ross1998standard,
   title={Standard SAR ATR evaluation experiments using the MSTAR public release data set},
   author={Ross, Timothy D and Worrell, Steven W and Velten, Vincent J and Mossing, John C and Bryant, Michael Lee},
@@ -87,6 +88,7 @@ MSTAR dataset:
   year={1998},
   organization={SPIE}
 }
+```
 
 OpenSARShip dataset:
 @article{huang2017opensarship,
