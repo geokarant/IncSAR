@@ -43,7 +43,6 @@ numpy==1.26.4
 - MSTAR_OPENSAR: download the folder MSTAR_OPENSAR from [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder
 - SAR-AIRcraft-1.0: download the folder AIRCRAFT [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder
 
-These datasets are sampled from the original datasets. Please note that I am not authorized to distribute these datasets. If the distribution violates the license, I will provide the filenames instead.
 ## Run experiments: 
 ### Basic experiments
 ```
