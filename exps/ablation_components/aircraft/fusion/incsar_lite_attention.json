@@ -1,0 +1,37 @@
+{
+    "prefix": "reproduce",
+    "dataset": "aircraft",
+    "shuffle": false,
+    "setup": 1,
+    "init_cls": 4,
+    "increment": 1,
+    "portion": 1,
+    "model_name": "incsar",
+    "late_fusion": false,
+    "backbone_type_vit": "vit_tiny_patch16_224_ssf",
+    "rpca_vit": false,
+    "backbone_type_cnn": "custom_cnn",
+    "rpca_cnn": true,
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "finetune": true,
+    "tuned_epoch": 15,
+    "optimizer": "sgd",
+    "d_model": 672,
+    "tf_layers": 4,
+    "tf_head": 8,
+    "ff_dim": 336,
+    "init_lr": 0.01,
+    "eq_prot": true,
+    "batch_size": 48,
+    "weight_decay": 0.0005,
+    "min_lr": 0,
+    "use_RP": true,
+    "lda": true,
+    "M": 10000,
+    "attention_fusion": true
+}

@@ -1,0 +1,38 @@
+{
+    "prefix": "reproduce",
+    "dataset": "mstar",
+    "shuffle": false,
+    "setup": 1,
+    "init_cls": 4,
+    "increment": 1,
+    "portion": 1.0,
+    "model_name": "incsar",
+    "late_fusion": true,
+    "backbone_type_vit": "pretrained_vit_b16_224_ssf",
+    "finetune_vit": true,
+    "tuned_epoch_vit": 10,
+    "rpca_vit": false,
+    "use_RP_vit": true,
+    "M_vit": 10000,
+    "backbone_type_cnn": "custom_cnn",
+    "finetune_cnn": true,
+    "tuned_epoch_cnn": 30,
+    "rpca_cnn": true,
+    "use_RP_cnn": true,
+    "M_cnn": 10000,
+    "device": [
+        "0"
+    ],
+    "seed": [
+        1993
+    ],
+    "eq_prot": false,
+    "init_lr": 0.01,
+    "batch_size": 48,
+    "weight_decay": 0.0005,
+    "min_lr": 0,
+    "optimizer": "sgd",
+    "lda": true,
+    "M": 10000,
+    "attention_fusion": false
+}
