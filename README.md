@@ -76,4 +76,4 @@ We thank the following repos providing helpful components/functions in our work.
 - [SSF](https://github.com/dongzelian/SSF)
 
 ## Contact
-If there are any questions, please feel free to contact with the author George Karantaidis(karantai@iti.gr)
+If there are any questions, please feel free to contact with the author George Karantaidis (karantai@iti.gr).
