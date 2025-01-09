@@ -91,6 +91,7 @@ MSTAR dataset:
 ```
 
 OpenSARShip dataset:
+```
 @article{huang2017opensarship,
   title={OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation},
   author={Huang, Lanqing and Liu, Bin and Li, Boying and Guo, Weiwei and Yu, Wenhao and Zhang, Zenghui and Yu, Wenxian},
@@ -101,9 +102,10 @@ OpenSARShip dataset:
   year={2017},
   publisher={IEEE}
 }
+```
 
 SarAircraft dataset:
-
+```
 @article{zhirui2023sar,
   title={SAR-AIRcraft-1.0: High-resolution SAR aircraft detection and recognition dataset},
   author={Zhirui, Wang and Yuzhuo, Kang and Xuan, Zeng and Yuelei, WANG and Ting, ZHANG and Xian, SUN},
@@ -114,6 +116,7 @@ SarAircraft dataset:
   year={2023},
   publisher={雷达学报}
 }
+```
 
 ## Contact
 If there are any questions, please feel free to contact with the author George Karantaidis (karantai@iti.gr).
