@@ -39,10 +39,9 @@ numpy==1.26.4
 
 ## Dataset preparation
 - Create a folder "datasets/" under the root directory.
-- MSTAR: download the folder MSTAR from [link](https://drive.google.com/drive/folders/1Hrk1FA4PYtAGpvzxUFRt14KRClASr1z7?usp=sharing) and place them into the 'datasets/' folder
-- MSTAR_OPENSAR: download the folder MSTAR_OPENSAR from [link](https://drive.google.com/drive/folders/1Hrk1FA4PYtAGpvzxUFRt14KRClASr1z7?usp=sharing) and place them into the 'datasets/' folder
-- SAR-AIRcraft-1.0: download the folder AIRCRAFT [link](https://radars.ac.cn/web/data/getData?dataType=SARDataset_en&pageType=en) and place them into the 'datasets/' folder
-- To reproduce the cross-domain experiments organize the corresponding classes in a folder named 'aircraft_mstar_opensar' with the order described in our paper
+- MSTAR: download the folder MSTAR from [link](https://itigr-my.sharepoint.com/personal/karantai_iti_gr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkarantai%5Fiti%5Fgr%2FDocuments%2Fdatasets&ga=1) and place them into the 'datasets/' folder
+- MSTAR_OPENSAR: download the folder MSTAR_OPENSAR from [link](https://itigr-my.sharepoint.com/personal/karantai_iti_gr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkarantai%5Fiti%5Fgr%2FDocuments%2Fdatasets&ga=1) and place them into the 'datasets/' folder
+- SAR-AIRcraft-1.0: download the folder AIRCRAFT [link](https://itigr-my.sharepoint.com/personal/karantai_iti_gr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fkarantai%5Fiti%5Fgr%2FDocuments%2Fdatasets&ga=1) and place them into the 'datasets/' folder
 
 These datasets are sampled from the original datasets. Please note that I am not authorized to distribute these datasets. If the distribution violates the license, I will provide the filenames instead.
 ## Run experiments: 
