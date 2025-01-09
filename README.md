@@ -39,9 +39,9 @@ numpy==1.26.4
 
 ## Dataset preparation
 - Create a folder "datasets/" under the root directory.
-- MSTAR: download the folder MSTAR from [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder
-- MSTAR_OPENSAR: download the folder MSTAR_OPENSAR from [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder
-- SAR-AIRcraft-1.0: download the folder AIRCRAFT [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder
+- MSTAR: download the folder MSTAR from [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder.
+- MSTAR_OPENSAR: download the folder MSTAR_OPENSAR from [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder.
+- SAR-AIRcraft-1.0: download the folder AIRCRAFT [link](https://itigr-my.sharepoint.com/:f:/g/personal/karantai_iti_gr/EkURhx1iLLZPoLmgp02-v4IBq6AXDQrOw7064ZtjvlrW4A?e=4dt8hb) and place them into the 'datasets/' folder.
 
 ## Run experiments: 
 ### Basic experiments
