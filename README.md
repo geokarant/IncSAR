@@ -3,13 +3,14 @@ The implementation of IEEE Access paper IncSAR: A dual fusion incremental learni
 
 **If you use any code of this repo, please consider citing our work:**
 ```
-@article{,
-  title={IncSAR: A Dual Fusion Incremental Learning Framework for SAR Target Recognition},
-  author={Karantaidis, G. and Pantsios, A. and Kompatsiaris, Y. and Papadopoulos, S.},
-  journal={IEEE Access},
+@ARTICLE{10838563,
+  author={Karantaidis, George and Pantsios, Athanasios and Kompatsiaris, Ioannis and Papadopoulos, Symeon},
+  journal={IEEE Access}, 
+  title={IncSAR: A Dual Fusion Incremental Learning Framework for SAR Target Recognition}, 
   year={2025},
-  publisher={IEEE}
-}
+  pages={1-1},
+  doi={10.1109/ACCESS.2025.3528633}}
+
 ```
 ## Pipeline
 
