@@ -1,5 +1,5 @@
 # IncSAR: A dual fusion incremental learning framework for SAR Target Recognition
-The implementation of IEEE Access [paper](https://ieeexplore.ieee.org/document/10838563) **IncSAR: A dual fusion incremental learning framework for SAR Target Recognition**. (You can also read our paper [here](https://mever.gr/publications/IncSAR_A_Dual_Fusion_Incremental_Learning_Framework_for_SAR_Target_Recognition.pdf).)
+The implementation of IEEE Access [paper](https://ieeexplore.ieee.org/document/10838563) **IncSAR: A dual fusion incremental learning framework for SAR Target Recognition** (You can also read our paper [here](https://mever.gr/publications/IncSAR_A_Dual_Fusion_Incremental_Learning_Framework_for_SAR_Target_Recognition.pdf).)
 
 If you use any code of this repo, please consider citing our work:
 ```
