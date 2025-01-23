@@ -3,12 +3,13 @@ The implementation of IEEE Access [paper](https://ieeexplore.ieee.org/document/1
 
 If you use any code of this repo, please consider citing our work:
 ```
-@ARTICLE{10838563,
-  author={Karantaidis, George and Pantsios, Athanasios and Kompatsiaris, Ioannis and Papadopoulos, Symeon},
+@ARTICLE{Karantaidis2025,
+  author={Karantaidis, G. and Pantsios, A. and Kompatsiaris, I. and Papadopoulos, S.},
   journal={IEEE Access}, 
   title={IncSAR: A Dual Fusion Incremental Learning Framework for SAR Target Recognition}, 
   year={2025},
-  pages={1-1},
+  volume={13},
+  pages={12358-12372},
   doi={10.1109/ACCESS.2025.3528633}}
 
 ```
