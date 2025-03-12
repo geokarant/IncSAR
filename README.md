@@ -75,46 +75,6 @@ We thank the following repos providing helpful components/functions in our work.
 - [TinyViT](https://github.com/wkcn/TinyViT)
 - [SSF](https://github.com/dongzelian/SSF)
 
-You should also cite the following:
-
-MSTAR dataset:
-```
-@inproceedings{ross1998standard,
-  title={Standard SAR ATR evaluation experiments using the MSTAR public release data set},
-  author={Ross, T. and Worrell, S. and Velten, V. and Mossing, J. and Bryant, M.},
-  booktitle={Algorithms for synthetic aperture radar imagery V},
-  volume={3370},
-  pages={566--573},
-  year={1998},
-  organization={SPIE}
-}
-```
-
-OpenSARShip dataset:
-```
-@article{huang2017opensarship,
-  title={OpenSARShip: A dataset dedicated to Sentinel-1 ship interpretation},
-  author={Huang, L. and Liu, B. and Li, B. and Guo, W. and Yu, W. and Zhang, Z. and Yu, W.},
-  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
-  volume={11},
-  number={1},
-  pages={195--208},
-  year={2017},
-  publisher={IEEE}
-}
-```
-
-SarAircraft dataset:
-```
-@article{zhirui2023sar,
-  title={SAR-AIRcraft-1.0: High-resolution SAR aircraft detection and recognition dataset},
-  author={Zhirui, W. and Yuzhuo, K. and Xuan, Z. and Yuelei, W. and Ting, Z. and Xian, S.},
-  journal={J. Radars},
-  volume={12},
-  number={4},
-  pages={906--922},
-  year={2023}
-}
 ```
 
 ## Contact
